@@ -1,16 +1,24 @@
+
+// This is a single-line comment
+
+
+/*
+This is a multi-line comment.
+It can span multiple lines.
+*/
+
+
+
 public class Comments_Variables_ {
     public static void main(String[] args) {
 
-        // This is a single-line comment
+        
 
         // Print Karwa rhi hai 
 
 //         System.out.println("Hello, World!"); // This comment is after a statement
 
-//         /*
-//          * This is a multi-line comment.
-//          * It can span multiple lines.
-//          */
+
 
 //         // Variable declaration and initialization
 //         int myNumber = 10; // This variable holds an integer value
@@ -22,9 +30,6 @@ public class Comments_Variables_ {
 //     }
 // }
 
-// Comments ( Single Line Comments )
-/* Multiple Line Comments */
-
 
 
         if ( 10 > 5 ){
@@ -35,6 +40,8 @@ public class Comments_Variables_ {
         }
     }
 }
+
+
 
 
 
